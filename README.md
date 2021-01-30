@@ -16,7 +16,7 @@ After clicking on the link above, click on the `Fork` button at the top of the p
 
 ##
 
-#### Concepts Learned:
+#### Concepts:
 - Variables
 - Data types
 - Dictionaries / Objects
@@ -35,23 +35,3 @@ After clicking on the link above, click on the `Fork` button at the top of the p
 
 ### Intro to Python
 Python is a programming language that uses a writing structure similar to English, which make it easier to read than most languages. It’s a great language to begin with when learning how to code, since you can use it for making nearly any type of app, from platform games to artificial intelligence algorithms. For this reason, it’s also commonly-used in large corporations, like at Google, NASA, Netflix and Spotify, to name a few.
-
-
-#### Installing Python
-
-
-
-#### Some Resources for learning Python
-- https://www.freecodecamp.org/news/best-python-tutorial/
-- https://www.freecodecamp.org/news/the-ultimate-guide-to-python-from-beginner-to-intermediate-to-pro/
-- https://realpython.com/start-here/
-- https://www.ubuntupit.com/best-python-libraries-and-packages-for-beginners/
-
-
-
-
-
-
-
-
-
